@@ -1,0 +1,9 @@
+.navbar {
+  background-color: black;
+  color: gray;
+}
+
+.wrapper {
+  background-image: url(../assets/batmanfacesbackground.jpg);
+  height: 100vh;
+}
