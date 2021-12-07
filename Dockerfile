@@ -1,3 +1,3 @@
 FROM socialengine/nginx-spa:latest
-COPY dist/batman /app
+COPY dist/batmanwins /app
 EXPOSE 80
